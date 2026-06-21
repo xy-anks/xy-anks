@@ -1,7 +1,7 @@
 <!-- Banner -->
 ![banner](https://capsule-render.vercel.app/api?type=waving&color=0:0f4c75,100:3282b8&height=200&section=header&text=Supply%20Chain%20%26%20OR&fontSize=35)
 
-# 👋 Hi, I'm [你的名字] / 你好，我是 [你的名字]
+# 👋 Hi, I'm xy-anks
 
 🎓 Logistics Management Student | 物流管理专业学生  
 📊 Operations Research / Supply Chain Optimization | 运筹学 / 供应链优化方向  
@@ -101,5 +101,5 @@
 
 ## 📫 Contact / 联系方式
 
-- Email: your_email@example.com  
-- GitHub: https://github.com/你的用户名  
+- Email: 2959234449@example.com  
+- GitHub: https://github.com/xy-anks 
