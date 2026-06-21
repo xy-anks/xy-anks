@@ -65,21 +65,9 @@
 
 ## 📊 GitHub Stats
 
-![stats](https://github-readme-stats.vercel.app/api?username=你的用户名&show_icons=true&theme=tokyonight)
+![stats](https://github-readme-stats.vercel.app/api?username=xy-anks&show_icons=true&theme=tokyonight)
 
-![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=你的用户名&layout=compact&theme=tokyonight)
-
----
-
-## 📈 Activity Graph / 活动图
-
-![graph](https://github-readme-activity-graph.vercel.app/graph?username=你的用户名&theme=tokyo-night)
-
----
-
-## 🔥 Contribution Streak / 连续贡献
-
-![streak](https://streak-stats.demolab.com?user=你的用户名&theme=tokyonight)
+![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xy-anks&layout=compact&theme=tokyonight)
 
 ---
 
